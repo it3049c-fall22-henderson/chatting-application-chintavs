@@ -21,3 +21,4 @@ it was a nice refresher.
 
 ## Discussion Questions:
 1. What does the bootstrap `display-4` class do?
+It's a class that is usually assigned to <h> tags to change font-size and weight
