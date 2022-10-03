@@ -14,7 +14,8 @@ how many points out of 20 do you deserve on this assignment: 20
 ## Self-Reflection:
 This assignment didn't take me that long and was easier compared to other
 labs before. I also learned about HTTP requests in my previous co-op, but
-it was a nice refresher.
+it was a nice refresher. Learning how to use localstorage was new to me but
+it wasn't too hard to figure out
 
 ### How long it took me to finish this?
 30 minutes
